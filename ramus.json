@@ -1,0 +1,6 @@
+[
+  {
+    "cwd": "./",
+    "command": "webpack-dev-server -d --watch"
+  }
+]
