@@ -1,5 +1,9 @@
 [
   {
+    "cwd": "./base",
+    "command": "./venv/bin/python2.7 app.py"
+  },
+  {
     "cwd": "./",
     "command": "webpack-dev-server -d --watch"
   }
